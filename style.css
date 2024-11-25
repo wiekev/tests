@@ -53,7 +53,7 @@ header img{
 .title{
     color: var(--achtergrond);
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 43%;
     margin-left: 0;
     margin-top: 0;
@@ -444,6 +444,8 @@ main section:nth-of-type(3){
 main section:nth-of-type(3) article img{
     width: 20em;
     border-radius: 50%;
+    border: beige;
+    border-style: solid;
 }
 
 main section:nth-of-type(3) article:first-of-type a{
@@ -489,13 +491,13 @@ main section:nth-of-type(3) article:nth-of-type(6) a{
 }
 
 main section:nth-of-type(3) div{
-    background-color: #FDBBA6;
     width: 32em;
     height: 32em;
+    background-color: #FDBBA6;
     border-radius: 50%;
     position: absolute;
-    top: 12em;
-    left: 24.5em;
+    top: 13em;
+    left: 25em;
     z-index: 1;
 }
 
